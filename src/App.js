@@ -12,9 +12,7 @@ const App = () => {
       <Navbar />
       <br />
       <br />
-      <br />
       <h1 className="btn-block p-3 btn-success">The Current Value is : {count} </h1>
-      <br />
       <br />
       <br />
 
